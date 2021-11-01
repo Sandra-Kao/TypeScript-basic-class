@@ -1,6 +1,7 @@
 # TypeScript-basic-class
 TypeScript-basic class
 
+Output:
 ``` Javascript
 console.log(modernDepartment);
 // {
